@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "error_geometri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25832" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vigeland Park" }, "geometry": { "type": "Point", "coordinates": [ 596164.56158684915863, 6644345.211594826541841 ] } },
+{ "type": "Feature", "properties": { "name": "Oslo Opera House" }, "geometry": { "type": "Point", "coordinates": [ 597396.473652813816443, 6643301.939707142300904 ] } },
+{ "type": "Feature", "properties": { "name": "Royal Palace" }, "geometry": { "type": "Point", "coordinates": [ 598119.680477328016423, 6643878.133870310150087 ] } },
+{ "type": "Feature", "properties": { "name": "Karl Johans Gate" }, "geometry": { "type": "Point", "coordinates": [ 596980.860709608648904, 6644004.098152640275657 ] } },
+{ "type": "Feature", "properties": { "name": "Stortinget" }, "geometry": { "type": "Point", "coordinates": [ 596332.064570163493045, 6642646.650517185218632 ] } },
+{ "type": "Feature", "properties": { "name": "Barcode Project" }, "geometry": { "type": "Point", "coordinates": [ 595556.815314411069266, 6643031.919561114162207 ] } },
+{ "type": "Feature", "properties": { "name": "Barcode Project" }, "geometry": { "type": "Point", "coordinates": [ 595556.815314411069266, 6643031.919561114162207 ] } },
+{ "type": "Feature", "properties": { "name": "Stortinget" }, "geometry": { "type": "Point", "coordinates": [ 596332.064570163493045, 6642646.650517185218632 ] } },
+{ "type": "Feature", "properties": { "name": "Karl Johans Gate" }, "geometry": { "type": "Point", "coordinates": [ 596980.860709608648904, 6644004.098152640275657 ] } },
+{ "type": "Feature", "properties": { "name": "Royal Palace" }, "geometry": { "type": "Point", "coordinates": [ 598119.680477328016423, 6643878.133870310150087 ] } },
+{ "type": "Feature", "properties": { "name": "Oslo Opera House" }, "geometry": { "type": "Point", "coordinates": [ 597396.473652813816443, 6643301.939707142300904 ] } },
+{ "type": "Feature", "properties": { "name": "Vigeland Park" }, "geometry": { "type": "Point", "coordinates": [ 596163.829208591021597, 6644345.569338535889983 ] } }
+]
+}
